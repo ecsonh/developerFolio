@@ -1,47 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70e089a2611da2bd4f501bdb85b82600",
+    "revision": "a3279a93ad988fedd22f46d540a0a520",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "be468c409b8e580e4e69",
+    "revision": "807233032ae65e45ab2d",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "2823b77d38a280ac5f01",
+    "revision": "a0437bb37d7008ffff1d",
     "url": "/developerFolio/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "583a6d57f2081ad0d118",
+    "revision": "bbec072b631d66717d75",
     "url": "/developerFolio/static/css/main.a89ed154.chunk.css"
   },
   {
-    "revision": "e956537ae28641a4196a",
-    "url": "/developerFolio/static/js/2.434e1995.chunk.js"
+    "revision": "8495a98326b574eb59a9",
+    "url": "/developerFolio/static/js/2.fb65f224.chunk.js"
   },
   {
     "revision": "d4d701abc30fcef5f714584a64df6e82",
-    "url": "/developerFolio/static/js/2.434e1995.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.fb65f224.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be468c409b8e580e4e69",
-    "url": "/developerFolio/static/js/3.5345dcc9.chunk.js"
+    "revision": "807233032ae65e45ab2d",
+    "url": "/developerFolio/static/js/3.1deb9f6d.chunk.js"
   },
   {
-    "revision": "2823b77d38a280ac5f01",
-    "url": "/developerFolio/static/js/4.281e94b1.chunk.js"
+    "revision": "a0437bb37d7008ffff1d",
+    "url": "/developerFolio/static/js/4.ae934b66.chunk.js"
   },
   {
-    "revision": "583a6d57f2081ad0d118",
-    "url": "/developerFolio/static/js/main.609df265.chunk.js"
+    "revision": "bbec072b631d66717d75",
+    "url": "/developerFolio/static/js/main.6e1cf130.chunk.js"
   },
   {
-    "revision": "a6d68423f4907b4e5b9b",
-    "url": "/developerFolio/static/js/runtime-main.dd91de17.js"
+    "revision": "51283ba2e62bab02ea72",
+    "url": "/developerFolio/static/js/runtime-main.2d64717c.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/developerFolio/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "924c132781fa7dc69af3f209039c850c",
+    "url": "/developerFolio/static/media/Cornell_University_Logo.924c1327.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
