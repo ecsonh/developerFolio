@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Ecson Hsu",
-  title: "Hi all, I'm Shaocheng(Ecson)",
+  title: "Hi There, Welcome! I'm Ecson Hsu",
   subTitle: emoji(
     "A passionate Software Developer 🚀 I specialize in ML and backend programming with Python / C++ / SQL / HTML Native and much more cool libraries and frameworks."
   ),
@@ -114,6 +114,13 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
+    {
+      schoolName: "Cornell University",
+      logo: require("./assets/images/Cornell_University_Logo.png"), //change
+      subHeader: "Master of Science in Computer & Information Science",
+      duration: "July 2025 - June 2026",
+      desc: "Specialize in Intelligence System & Data",
+    },
     {
       schoolName: "University of California, Irvine",
       logo: require("./assets/images/uci.png"), //change
