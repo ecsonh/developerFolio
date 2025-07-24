@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ecsonh",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  linkedin: "https://www.linkedin.com/in/ecson-hsu-b285301ba/",
   gmail: "ecsonhwk@gmail.com",
   medium: "https://medium.com/@ecsonhsu",
   // Instagram, Twitter and Kaggle are also supported in the links!
