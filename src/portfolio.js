@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Developer 🚀 I specialize in ML and backend programming with Python / C++ / SQL / HTML Native and much more cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1kh5YMcXzl0In-QSzkVV9_UJ4zOoVKm3u/view?usp=share_link", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1LyCzIfHIyGSe-IP4zMiBsgQ9kpIsDaM5/edit?usp=sharing&ouid=111048824188214720997&rtpof=true&sd=true", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
