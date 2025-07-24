@@ -115,6 +115,13 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
+      schoolName: "Cornell University",
+      logo: require("./assets/images/Cornell_University_Logo.png"), //change
+      subHeader: "Master of Science in Computer & Information Science",
+      duration: "July 2025 - June 2026",
+      desc: "Specialize in Intelligence System & Data",
+    },
+    {
       schoolName: "University of California, Irvine",
       logo: require("./assets/images/uci.png"), //change
       subHeader: "Bachelor of Science in Computer Science",
