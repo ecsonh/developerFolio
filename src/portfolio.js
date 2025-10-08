@@ -223,7 +223,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://personalassistant-e8ll4penbhjuw3dckk6k4h.streamlit.app"
+          url: "https://onlinepersonalassistant-mrcukuhblorpthaa8ct6qx.streamlit.app"
         }
         //  you can add extra buttons here.
       ]
