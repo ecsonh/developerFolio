@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Developer 🚀 I specialize in ML and backend programming with Python / C++ / SQL / HTML Native and much more cool libraries and frameworks."
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1LyCzIfHIyGSe-IP4zMiBsgQ9kpIsDaM5/edit?usp=share_link&ouid=111048824188214720997&rtpof=true&sd=true", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Uz7HerWL3WvZBSy8yPILXkFlJXyOUZFS/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/ecsonh",
-  linkedin: "https://www.linkedin.com/in/ecson-hsu-b285301ba/",
+  linkedin: "http://www.linkedin.com/in/ecson-h-b285301ba",
   gmail: "ecsonhwk@gmail.com",
   medium: "https://medium.com/@ecsonhsu",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -162,13 +162,24 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Machine Learning & GenAI Engineer Intern",
+      company: "Dell Technologies",
+      companylogo: require("./assets/images/dell_technologies-logo.png"),
+      date: "August 2025 – Present",
+      desc: "",
+      descBullets: [
+        "Developing an AI-powered diagnostic system building ML models to analyze of test process fluctuations in Dell’s diagnostic pipelines.\n",
+        "The objective of this project is to save 30% of Dell's engineers time and yearly of ~500K savings."
+      ]
+    },
+    {
       role: "Software Engineer",
       company: "Rexgear",
       companylogo: require("./assets/images/rexgear.png"),
-      date: "April 2024 – Present",
+      date: "April 2024 – July 2025",
       desc: "",
       descBullets: [
-        "Built a multi-device managing system that acquires data from power supplies instruments, achieving high speed transportation time under 3 milliseconds.",
+        "Developed a multi-device management system with sub-3ms data transfer latency, deployed by leading companies including Tesla, Lucid, and SpaceX.\n",
         "Resdeigned website UI and Leverage leading SEO tools to strategically optimize web content, doubleing the oragnic traffic."
       ]
     },
@@ -177,15 +188,15 @@ const workExperiences = {
       company: "nSpire AI",
       companylogo: require("./assets/images/nspire_ai_logo.jpg"),
       date: "Feb 2024 – April 2024",
-      desc: "Built a conversational AI language model using Langchain, capable of generating responses to user questions\
-      and providing suggestions for user's daily tasks and schedule."
+      descBullets: ["Built a conversational AI language model using Langchain, capable of generating responses to user questions\
+      and providing suggestions for user's daily tasks and schedule."]
     },
     {
       role: "Machine Learning Research Assistance",
       company: "UC Irvine",
       companylogo: require("./assets/images/uci.png"),
       date: "June 2023 – Sep 2023",
-      desc: "Developed the convolutional network for a wearable health device with the research team, resulting in an outstanding accuracy of 96% with the research team."
+      descBullets: ["Developed the ML model for a wearable health device with the research team, resulting in an outstanding accuracy of 96%."]
     }
   ]
 };
@@ -201,7 +212,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Highlighted Projects",
   subtitle: "Some major projects that I developed",
   footerLink: "https://docs.google.com/presentation/d/15z3VXynQ6vqSq8BLKoKfXZynMWxcga62OJ8DxtHCx2A/edit#slide=id.p",
   projects: [
@@ -212,7 +223,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://personalassistant-cqdk7t9yqcdiyixmzcepfu.streamlit.app"
+          url: "https://personalassistant-e8ll4penbhjuw3dckk6k4h.streamlit.app"
         }
         //  you can add extra buttons here.
       ]
@@ -226,6 +237,18 @@ const bigProjects = {
         {
           name: "Watch Video Demo",
           url: "https://youtu.be/NItLIyy791Q"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/school logo.png"),
+      projectName: "Interactive Math Learning Platform",
+      projectDesc: "An interactive geometry platform that helps students visualize and explore mathematical concepts through dynamic, hands-on 3D simulations."
+      ,
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://gdp.math.uci.edu/#/"
         }
       ]
     }
