@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40672a9fa4144a8c7fac73a7450037e2",
+    "revision": "009db95ba51b03d3b019265cf9d59e8a",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "807233032ae65e45ab2d",
+    "revision": "8410cb1460f6547f15cd",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a0437bb37d7008ffff1d",
+    "revision": "8c618887c7f10b66d141",
     "url": "/developerFolio/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "e3ef9511ba8d9375ced9",
+    "revision": "47e9068fbc8e6ad267a1",
     "url": "/developerFolio/static/css/main.a89ed154.chunk.css"
   },
   {
-    "revision": "8495a98326b574eb59a9",
-    "url": "/developerFolio/static/js/2.fb65f224.chunk.js"
+    "revision": "ea577107553f6780fe80",
+    "url": "/developerFolio/static/js/2.09b4e466.chunk.js"
   },
   {
     "revision": "d4d701abc30fcef5f714584a64df6e82",
-    "url": "/developerFolio/static/js/2.fb65f224.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.09b4e466.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "807233032ae65e45ab2d",
-    "url": "/developerFolio/static/js/3.1deb9f6d.chunk.js"
+    "revision": "8410cb1460f6547f15cd",
+    "url": "/developerFolio/static/js/3.15641b3c.chunk.js"
   },
   {
-    "revision": "a0437bb37d7008ffff1d",
-    "url": "/developerFolio/static/js/4.ae934b66.chunk.js"
+    "revision": "8c618887c7f10b66d141",
+    "url": "/developerFolio/static/js/4.dc264cd2.chunk.js"
   },
   {
-    "revision": "e3ef9511ba8d9375ced9",
-    "url": "/developerFolio/static/js/main.0bf9bce6.chunk.js"
+    "revision": "47e9068fbc8e6ad267a1",
+    "url": "/developerFolio/static/js/main.7c3ed7cb.chunk.js"
   },
   {
-    "revision": "51283ba2e62bab02ea72",
-    "url": "/developerFolio/static/js/runtime-main.2d64717c.js"
+    "revision": "a39de062344581b4d7a5",
+    "url": "/developerFolio/static/js/runtime-main.29e46ed6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/contactMailDark.51cf7192.svg"
   },
   {
+    "revision": "a83ad1baadf349c7d87cedadda1d1e8f",
+    "url": "/developerFolio/static/media/dell_technologies-logo.a83ad1ba.png"
+  },
+  {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/developerFolio/static/media/developerActivity.59389695.svg"
   },
@@ -74,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c55214837f16325c01a72a4755fd68ab",
     "url": "/developerFolio/static/media/rexgear.c5521483.png"
+  },
+  {
+    "revision": "f831ffb37d24656dc3f6e6b5ac8f3a84",
+    "url": "/developerFolio/static/media/school logo.f831ffb3.png"
   },
   {
     "revision": "1e0e3e073d6c76ccc0f234df6d11766e",
